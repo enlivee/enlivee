@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Egor 👋
 
-<!--
-**enlivee/enlivee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Go / Python) & CS Undergraduate Student at **ETU "LETI"** (Saint Petersburg).
+Passionate about building scalable backend systems, algorithms, theoretical computer science, and high-performance applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+* **Languages:** Go, Python, C++, SQL
+* **Backend & Async:** FastAPI, Pydantic, SQLAlchemy, Asyncio, REST API
+* **Databases & Storage:** PostgreSQL, Redis
+* **DevOps & Tools:** Docker, Git, Linux, Bash, LaTeX
+* **Computer Science Foundations:** Data Structures & Algorithms, Computer Graphics Compression, Computer Vision Basics
+
+---
+
+### 🚀 Key Projects & Academic Labs
+
+#### 🚖 Backend & Microservices
+* **[Taxi Dynamic Pricing Engine](https://github.com/enlivee/Taxi-Dynamic-Pricing-Engine)** `Go`
+  * Modular dynamic pricing engine for taxi services. Features multi-factor calculations (weather conditions, wind speed, distance) and strict price limits.
+* **[FastAPI REST API Engine](https://github.com/enlivee/FastAPI_test)** `Python` `FastAPI`
+  * Asynchronous RESTful service built with FastAPI, Pydantic data validation, and SQLAlchemy ORM for relational data management.
+* **[Telegram API Bot](https://github.com/enlivee/TelegramAPI_Bot)** `Java`
+  * Async Telegram bot leveraging API integrations for automated task handling and user interaction.
+
+#### 🔬 ML, Algorithms & Data Structures
+* **[Handwritten Formulas to LaTeX](https://github.com/enlivee/Parsing_handwritten_formulas_Latex)** `Python` `ML/CV`
+  * Computer Vision project for parsing handwritten mathematical expressions and converting them into renderable LaTeX formulas.
+* **[JPG Image Compressor](https://github.com/enlivee/AiSD_Lab2_JPG_compressor)** `Python`
+  * Implementation of image compression algorithms (DCT, quantization, and encoding routines) as part of Advanced Algorithms & Data Structures coursework.
+* **[Data Structures & Algorithms Collection](https://github.com/enlivee/2LabAISD)** `Python`
+  * Core algorithmic lab collection covering fundamental trees (BST, AVL, Red-Black).
+
+* **Location:** Saint Petersburg, Russia
