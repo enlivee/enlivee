@@ -7,7 +7,7 @@ Passionate about building scalable backend systems, algorithms, theoretical comp
 
 ### 🛠 Tech Stack
 
-* **Languages:** Go, Python, C++, SQL
+* **Languages:** Go, Python
 * **Backend & Async:** FastAPI, Pydantic, SQLAlchemy, Asyncio, REST API
 * **Databases & Storage:** PostgreSQL, Redis
 * **DevOps & Tools:** Docker, Git, Linux, Bash, LaTeX
